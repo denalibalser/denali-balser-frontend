@@ -1,2 +1,2 @@
-# denali-balser-frontend
+# Denali Balser - Frontend
 Personal Website (Frontend)
